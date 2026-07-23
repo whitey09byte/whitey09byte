@@ -54,7 +54,7 @@ I'm a high school student interested in programming, computer science, and build
 
 ## 📫 Contact
 
-- Telegram: **@whitey09**
+- Telegram: **@The_whitey**
 - GitHub Issues are always welcome.
 
 ---
