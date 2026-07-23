@@ -67,5 +67,5 @@ I also like anime, video games, and calm music.
 *"Building while learning.."*
 
 <p align="center">
-  <img src="assets/footer.png" width="100%">
+  <img src="assets/footer.png" width="75%">
 </p>
