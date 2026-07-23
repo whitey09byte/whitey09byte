@@ -40,6 +40,7 @@ I'm a high school student interested in programming, computer science, and build
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitey09byte&theme=github-dark&hide_border=true" width="100%">
 </p>
+
 ---
 
 ## 🛠️ Languages & Tools
