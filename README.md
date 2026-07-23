@@ -35,13 +35,11 @@ I'm a high school student interested in programming, computer science, and build
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity Graph
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=whitey09byte&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitey09byte&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitey09byte&theme=github-dark&hide_border=true" width="100%">
 </p>
-
 ---
 
 ## 🛠️ Languages & Tools
