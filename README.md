@@ -10,7 +10,7 @@ I'm a high school student interested in programming, computer science, and build
 
 ## 👤 About Me
 
-- 🐍 Python Developer
+- 🐍 Python Enthusiast
 - 🤖 Telegram Bot Developer
 - 💻 Open Source Enthusiast
 - 🧩 Competitive Programming Learner
