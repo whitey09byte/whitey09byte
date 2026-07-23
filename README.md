@@ -46,7 +46,7 @@ I'm a high school student interested in programming, computer science, and build
 ## 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,sqlite,linux" />
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,sqlite,html,css" />
 </p>
 
 ---
